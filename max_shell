@@ -1,1 +1,2 @@
-/bin/bash
+su - max -c 'echo $SHELL'
+/bin/sh
