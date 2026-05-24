@@ -1,0 +1,1 @@
+export PS1='[$(date +"%a %b %d")]\u@\h '
