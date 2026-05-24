@@ -1,1 +1,1 @@
-ls -la
+ls -l --time-style=full-iso
